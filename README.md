@@ -17,7 +17,7 @@ Furthermore, we use [Maven][maven] in order to build our LearnLib-Py4J connector
 
 For the Python side of this example you need to have a working [Python][python] installation.
 The example has only been tested with Python3 - Python2 may or may not work.
-We strongly suggest to install the [`virtualenv`][venv] tool in order setup the Python side of Py4J without affecting your global Python installation - although technically you only need to have the `python-py4j` libraries installed somewhere.
+We strongly suggest to install the [`virtualenv`][venv] tool in order to setup the Python side of Py4J without affecting your global Python installation - although technically you only need to have the `python-py4j` libraries installed somewhere.
 
 ---
 
